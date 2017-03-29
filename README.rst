@@ -24,7 +24,7 @@ From PyPI package `i3pystatus <https://pypi.python.org/pypi/i3pystatus>`_
 
 ::
 
-    pip install i3pystatus
+    pip3 install i3pystatus
 
 Packages for your OS
 ++++++++++++++++++++
